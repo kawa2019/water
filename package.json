@@ -1,0 +1,19 @@
+{
+  "name": "water",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "vitest": "^3.1.1"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
